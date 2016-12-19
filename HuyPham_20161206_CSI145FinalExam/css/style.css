@@ -1,25 +1,25 @@
 ﻿        .containerGrand{
-            width: 1000px;
+            width: 900px;
             padding: 8px 8px 8px 8px;
         }
         .containerHeaderMain{
-            width: 960px;
+            width: 880px;
             padding: 8px 8px 8px 8px;
         }
         .containerHeaderQuestion{
-            width: 960px;
+            width: 880px;
             padding: 8px 8px 8px 8px;
             background-color: darkorange;
             font-weight: bolder;
             color: white;
         }
         .containerBuffer{
-            width: 960px;
+            width: 880px;
             height: 32px;
             padding: 8px 8px 8px 8px;
         }
         .containerFooter{
-            width: 960px;
+            width: 880px;
             padding: 8px 8px 8px 8px;
             background-color: lightgray;
             font-size: larger;
@@ -48,25 +48,25 @@
             border-color: grey;
         }
         .containerQ3Main{
-            width: 960px;
+            width: 880px;
             padding: 8px 8px 8px 8px;
             overflow: auto;
         }
         .containerQ4Main{
-            width: 960px;
+            width: 880px;
             padding: 8px 8px 8px 8px;
             overflow: auto;
         }
         .containerQ4Display{
             border: 1px solid black;
             background-color: #fffad1;
-            width: 960px;
+            width: 880px;
             height: 100px;
             padding: 4px 4px 4px 4px;
             overflow: auto;
         }
         .containerQ5Main{
-            width: 960px;
+            width: 880px;
             padding: 8px 8px 8px 8px;
             overflow: auto;
         }
@@ -99,7 +99,7 @@
             overflow: auto;
         }
         .containerQ10Main{
-            width: 960px;
+            width: 880px;
             padding: 8px 8px 8px 8px;
             overflow: auto;
         }
