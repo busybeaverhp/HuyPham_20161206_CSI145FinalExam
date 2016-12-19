@@ -12,6 +12,7 @@
             background-color: darkorange;
             font-weight: bolder;
             color: white;
+            box-sizing:border-box;
         }
         .containerBuffer{
             width: 880px;
@@ -56,6 +57,7 @@
             width: 880px;
             padding: 8px 8px 8px 8px;
             overflow: auto;
+            box-sizing:border-box;
         }
         .containerQ4Display{
             border: 1px solid black;
@@ -64,6 +66,7 @@
             height: 100px;
             padding: 4px 4px 4px 4px;
             overflow: auto;
+            box-sizing:border-box;
         }
         .containerQ5Main{
             width: 880px;
@@ -102,4 +105,5 @@
             width: 880px;
             padding: 8px 8px 8px 8px;
             overflow: auto;
+            box-sizing:border-box;
         }
